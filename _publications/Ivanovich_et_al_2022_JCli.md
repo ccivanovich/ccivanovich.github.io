@@ -1,7 +1,7 @@
 ---
 title: "The Influence of Intraseasonal Oscillations on Humid Heat in the Persian Gulf and South Asia"
 collection: publications
-category: manuscript
+category: manuscripts
 permalink: /publication/intraseasonal-oscillations-humid-heat
 date: 2022-07-01
 venue: 'Journal of Climate'
