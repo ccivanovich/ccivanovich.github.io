@@ -21,7 +21,7 @@ repository               : "ccivanovich/ccivanovich.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "http://github.com/ccivanovich/ccivanovich.github.io/blob/master/files/Headshot.jpg"
+  avatar           : "Headshot.jpg"
   name             : "Dr. Catherine Ivanovich"
   pronouns         : "she/her"  
   bio              : "NASA Postdoctoral Program (NPP) Fellow"
