@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/stickiness
 date: 2024-05-01
+excerpt: ''
 venue: 'Journal of the Atmospheric Sciences'
 paperurl: 'https://journals.ametsoc.org/view/journals/atsc/81/5/JAS-D-23-0072.1.xml'
 citation: 'Ivanovich, C. C., Sobel, A. H., Horton, R. M., & Raymond, C. (2024). Stickiness: A New Variable to Characterize the Temperature and Humidity Contributions toward Humid Heat. Journal of the Atmospheric Sciences, 81(5), 819–837. https://doi.org/10.1175/JAS-D-23-0072.1'
