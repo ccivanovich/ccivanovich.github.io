@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/humid-heat-south-asian-summer-monsoon
 date: 2024-03-21
+excerpt: ''
 venue: 'Geophysical Research Letters'
 paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL107382'
 citation: 'Ivanovich, C. C., Horton, R. M., Sobel, A. H., & Singh, D. (2024). Subseasonal Variability of Humid Heat During the South Asian Summer Monsoon. Geophysical Research Letters, 51(6), e2023GL107382. https://doi.org/10.1029/2023GL107382'
