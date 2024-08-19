@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/warming-food-consumption
 date: 2023-03-06
+excerpt: ''
 venue: 'Nature Climate Change'
 paperurl: 'https://www.nature.com/articles/s41558-023-01605-8'
 citation: 'Ivanovich, C. C., Sun, T., Gordon, D. R., & Ocko, I. B. (2023). Future warming from global food consumption. Nature Climate Change, 13(3), 297–302. https://doi.org/10.1038/s41558-023-01605-8'
