@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[CV]("Headshot.jpg")
+[CV](http://github.com/ccivanovich/ccivanovich.github.io/blob/master/files/Ivanovich_CV_August2024.pdf)
