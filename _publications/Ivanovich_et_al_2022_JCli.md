@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/intraseasonal-oscillations-humid-heat
 date: 2022-07-01
+excerpt: ''
 venue: 'Journal of Climate'
 paperurl: 'https://journals.ametsoc.org/view/journals/clim/35/13/JCLI-D-21-0488.1.xml'
 citation: 'Ivanovich, C., Anderson, W., Horton, R., Raymond, C., & Sobel, A. (2022). The Influence of Intraseasonal Oscillations on Humid Heat in the Persian Gulf and South Asia. Journal of Climate, 35(13), 4309–4329. https://doi.org/10.1175/JCLI-D-21-0488.1'
