@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-[image](../../files/oceanography.jpg)
+![image](../../files/oceanography.JPG)
 
 Dr. Catherine (Casey) Ivanovich is a climate scientist interested in the physical and social drivers of climate variability and change. She is passionate about investigating the dynamics and impacts of climate extremes, and communicating scientific concepts in a way that is engaging and accessible to the public.
 
