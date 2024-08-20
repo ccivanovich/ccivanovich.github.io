@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Featured Media and Communications"
-permalink: /communications/
+permalink: /media/
 author_profile: true
 ---
 
