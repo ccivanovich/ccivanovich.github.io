@@ -2,12 +2,14 @@
 permalink: /
 title: "About Me"
 author_profile: true
+gallery:
+  - url: /oceanography.JPG
+    image_path: oceanography.JPG
+    alt: "Casey Ivanovich stands in front of the Oceanography Building at the Lamont-Doherty Earth Observatory, where she completed her PhD."
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-![image](../../files/oceanography.JPG)
 
 Dr. Catherine (Casey) Ivanovich is a climate scientist interested in the physical and social drivers of climate variability and change. She is passionate about investigating the dynamics and impacts of climate extremes, and communicating scientific concepts in a way that is engaging and accessible to the public.
 
