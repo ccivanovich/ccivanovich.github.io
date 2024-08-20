@@ -3,8 +3,8 @@ permalink: /
 title: "About Me"
 author_profile: true
 gallery:
-  - url: /oceanography.JPG
-    image_path: oceanography.JPG
+  - url: /gallery_imgs/oceanography.JPG
+    image_path: gallery_imgs/oceanography.JPG
     alt: "Casey Ivanovich stands in front of the Oceanography Building at the Lamont-Doherty Earth Observatory, where she completed her PhD."
 redirect_from: 
   - /about/
