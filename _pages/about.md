@@ -11,6 +11,8 @@ gallery:
     alt: "Casey Ivanovich stands in front of the Oceanography Building at the Lamont-Doherty Earth Observatory, where she completed her PhD."
 ---
 
+![image](/images/gallery_imgs/oceanography.JPG)
+
 Dr. Catherine (Casey) Ivanovich is a climate scientist interested in the physical and social drivers of climate variability and change. She is passionate about investigating the dynamics and impacts of climate extremes, and communicating scientific concepts in a way that is engaging and accessible to the public.
 
 Casey is currently a NASA Postdoctoral Program (NPP) Fellow at the NASA Goddard Institute for Space Studies (GISS), advised by Dr. Benjamin Cook. Her work will investigate how land surface type constrains the influence of surface moisture on dry versus humid heat extremes around the world.
