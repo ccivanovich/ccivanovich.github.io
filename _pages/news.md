@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-# I passed my defense!
+## I passed my defense!
 
 <img src="/images/gallery_imgs/defense_presentation.jpg" alt="defense_presentation" width="50%" />
 
