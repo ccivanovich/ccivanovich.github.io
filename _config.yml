@@ -21,7 +21,7 @@ repository               : "ccivanovich/ccivanovich.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Headshot.jpg"
+  avatar           : "headshot_square_2024.png"
   name             : "Dr. Catherine Ivanovich"
   pronouns         : "she/her"  
   bio              : "Climate scientist studying extreme humid heat | Current NASA Postdoctoral Program (NPP) Fellow"
