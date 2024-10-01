@@ -9,7 +9,7 @@ author_profile: true
 
 ## Recieving this year's Wagner Memorial Award
 
-<img src="/images/gallery_imgs/DRI_presentation.jpg" alt="DRI_presentation" width="50%" style="float: left;"/>
+<img src="/images/gallery_imgs/DRI_presentation.jpg" alt="DRI_presentation" width="50%" style="float: left; padding-right:10px" />
 
 **September 23, 2024**
 <br/>
@@ -20,14 +20,10 @@ I'm honored to be this year's recipient of the Peter B. Wagner Memorial Award fo
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 ## Starting my new postdoc position
 
-<img src="/images/gallery_imgs/GISS_logo.jpg" alt="NASA_GISS_logo" width="35%" style="float: left;" />
+<img src="/images/gallery_imgs/GISS_logo.jpg" alt="NASA_GISS_logo" width="35%" style="float: left; padding-right:10px" />
 
 **August 19, 2024**
 <br/>
@@ -47,7 +43,7 @@ Today I started my new position as a NASA Postdoctoral Program (NPP) fellow at N
 
 ## I passed my defense!
 
-<img src="/images/gallery_imgs/defense_presentation.jpg" alt="defense_presentation" width="50%" style="float: left;"/>
+<img src="/images/gallery_imgs/defense_presentation.jpg" alt="defense_presentation" width="50%" style="float: left; padding-right:10px"/>
 
 **July 15, 2024**
 <br/>
