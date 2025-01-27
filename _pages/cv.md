@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-For my full CV, click [here](../../files/Ivanovich_CV_August2024.pdf).
+For my full CV, click [here](../../files/Ivanovich_CV_January2025.pdf).
