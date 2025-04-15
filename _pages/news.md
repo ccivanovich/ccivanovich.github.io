@@ -53,7 +53,7 @@ It's official! I successfully defended my dissertation titled, "Characterizing t
 
 **May 6, 2024**
 <br/>
-This week I traveled to Rio de Janeiro and São Paulo to meet with collaborators and stakeholderson relating to current research project investigating the drivers of the November 2023 heatwave in Rio de Janeiro. I gave research presentations at Universidade Federal do Rio de Janeiro and the Universidade de São Paulo. I also met with city officials to discuss ongoing green infrastructure projects to reduce urban heat islands and the development of extreme heat warning systems. Read more about my visit to the Centro de Operações Preifetura do Rio de Janeiro (COR, the Rio Operations Center) in [this feature](https://www.dri.edu/dri-recognizes-catherine-ivanovich-as-the-2024-wagner-award-winner/) on O Globo!
+This week I traveled to Rio de Janeiro and São Paulo to meet with stakeholders and collaborators on my current research project investigating the drivers of the November 2023 heatwave in Rio de Janeiro, giving  presentations at the Universidade Federal do Rio de Janeiro and the Universidade de São Paulo. I also met with city officials to discuss ongoing green infrastructure projects to reduce urban heat islands and the development of extreme heat warning systems. Read more about my visit to the Centro de Operações Preifetura do Rio de Janeiro (COR, the Rio Operations Center) in [this feature](https://www.dri.edu/dri-recognizes-catherine-ivanovich-as-the-2024-wagner-award-winner/) on O Globo!
 <br/>
 <br/>
 <br/>
