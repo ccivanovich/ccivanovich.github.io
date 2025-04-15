@@ -47,4 +47,21 @@ Today I started my new position as a NASA Postdoctoral Program (NPP) fellow at N
 <br/>
 It's official! I successfully defended my dissertation titled, "Characterizing the Local, Regional, and Global Drivers of Extreme Humid Heat" in front of an audience of colleagues, friends, and family. What an amazing way to cap my experience at Lamont!
 <br/>
+<br/>
+<br/>
+<br/>
 
+## Research visit to Brazil
+
+<p float="left">
+  <img src="/images/gallery_imgs/Federal University of Rio.jpg" alt = "federal_university_rio" width="100" />
+  <img src="/images/gallery_imgs/COR visit.jpg" alt = "COR_visit" width="100" /> 
+</p>
+
+**May 6, 2024**
+<br/>
+This week I traveled to Rio de Janeiro and São Paulo to meet with collaborators and stakeholderson relating to current research project investigating the drivers of the November 2023 heatwave in Rio de Janeiro. I gave research presentations at Universidade Federal do Rio de Janeiro and the Universidade de São Paulo. I also met with city officials to discuss ongoing green infrastructure projects to reduce urban heat islands and the development of extreme heat warning systems. Read more about my visit to the Centro de Operações Preifetura do Rio de Janeiro (COR, the Rio Operations Center) in [this feature](https://www.dri.edu/dri-recognizes-catherine-ivanovich-as-the-2024-wagner-award-winner/) on O Globo!
+<br/>
+<br/>
+<br/>
+<br/>
