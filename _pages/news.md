@@ -54,8 +54,8 @@ It's official! I successfully defended my dissertation titled, "Characterizing t
 ## Research visit to Brazil
 
 <p float="left">
-  <img src="/images/gallery_imgs/Federal University of Rio.jpg" alt = "federal_university_rio" width="100" />
-  <img src="/images/gallery_imgs/COR visit.png" alt = "COR_visit" width="100" /> 
+  <img src="/images/gallery_imgs/Federal University of Rio.jpg" alt = "federal_university_rio" width="50%" />
+  <img src="/images/gallery_imgs/COR visit.png" alt = "COR_visit" width="50%" /> 
 </p>
 
 **May 6, 2024**
