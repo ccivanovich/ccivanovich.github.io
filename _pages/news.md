@@ -34,7 +34,10 @@ Today I started my new position as a NASA Postdoctoral Program (NPP) fellow at N
 
 ## I passed my defense!
 
-<img src="/images/gallery_imgs/defense_presentation.jpg" alt="defense_presentation" width="50%" style="float: left; padding-right:30px"/>
+<p float="left">
+  <img src="/images/gallery_imgs/defense_presentation.jpg" alt = "defense_presentation" width="40%" />
+  <img src="/images/gallery_imgs/Defense Committee.jpg" alt = "defense_committee" width="40%" /> 
+</p>
 
 **July 15, 2024**
 <br/>
