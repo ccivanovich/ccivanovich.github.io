@@ -43,8 +43,6 @@ Today I started my new position as a NASA Postdoctoral Program (NPP) fellow at N
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 
 
 ## I passed my defense!
