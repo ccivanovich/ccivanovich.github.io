@@ -7,6 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
+## Video
+---
+**PBS Terra Weathered Interview**
+Episode titled, "When Will Extreme Heat Become Unlivable?." June 18, 2025. Watch [here](https://www.youtube.com/watch?v=7hBMbQ9de1g&t=1s).
+
+**Ridgewood Public Library Sustainability Series**
+Guest speaker with lecture titled, “Climate Change 101: Understanding Earth’s Past, Present, and Future.” November 16, 2020. Watch [here](https://www.youtube.com/watch?v=bnmWTuwb7oI).
+
+
 ## Written Interviews
 ---
 * Eos Magazine, "How Sticky Is It Outside?" July 10, 2024. Read [here](https://eos.org/articles/how-sticky-is-it-outside).
@@ -28,11 +37,6 @@ Episode titled “New ways to warn about extreme heat, the “silent killer.”"
 
 **Green Street Radio**
 Episode titled “Smoke, Heat and Humidity with Mary Prunicki and Casey Ivanovich.” November 22, 2021. Listen [here](https://www.greenstreetnews.org/post/smoke-heat-humidity-climate-change-is-here-with-dr-mary-prunicki-and-casey-ivanovich).
-
-## Public Outreach
----
-**Ridgewood Public Library Sustainability Series**
-Guest speaker with lecture titled, “Climate Change 101: Understanding Earth’s Past, Present, and Future.” November 16, 2020. Watch [here](https://www.youtube.com/watch?v=bnmWTuwb7oI).
 
 ## Blog Posts
 ---
