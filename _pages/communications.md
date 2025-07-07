@@ -18,6 +18,7 @@ Guest speaker with lecture titled, “Climate Change 101: Understanding Earth’
 
 ## Written Interviews
 ---
+* The Guardian, "Sokoto residents turn to ice blocks for relief amid extreme heat, power failures" June 3, 2025. Read [here](https://guardian.ng/features/sokoto-residents-turn-to-ice-blocks-for-relief-amid-extreme-heat-power-failures/?trk=feed-detail_main-feed-card_feed-article-content#google_vignette).
 * Eos Magazine, "How Sticky Is It Outside?" July 10, 2024. Read [here](https://eos.org/articles/how-sticky-is-it-outside).
 * The New York Times, "A new way to talk about heat." June 11, 2024. Read [here](https://messaging-custom-newsletters.nytimes.com/dynamic/render?free_trial=0&paid_regi=1&productCode=CLIM&isViewInBrowser=true&uri=nyt://newsletter/20d42261-f554-51dd-bf20-187f79c538d9).
 * AP News, "The way we eat could add nearly 1 degree of warming by 2100." March 6, 2023. Read [here](https://apnews.com/article/climate-agriculture-food-methane-emissions-3980deda0d27c16258c1e79bbf4e1481).
