@@ -12,7 +12,7 @@ author_profile: true
 **PBS Terra Weathered Interview**
 Episode titled, "When Will Extreme Heat Become Unlivable?." June 18, 2025. Watch [here](https://www.youtube.com/watch?v=7hBMbQ9de1g&t=1s).
 
-[![Screenshot of youtube video showing a map centered on the United States with a high pressure system on top of a shaded temperature map.](https://raw.githubusercontent.com/ccivanovich/ccivanovich.github.io/refs/heads/master/images/gallery_imgs/youtube%20video.png)](https://www.youtube.com/watch?v=7hBMbQ9de1g&t=1s)
+[![Screenshot of youtube video showing me discussing difference between dry and humid heat.](https://raw.githubusercontent.com/ccivanovich/ccivanovich.github.io/refs/heads/master/images/gallery_imgs/youtube_screenshot.png)](https://www.youtube.com/watch?v=7hBMbQ9de1g&t=1s)
 
 **Ridgewood Public Library Sustainability Series**
 Guest speaker with lecture titled, “Climate Change 101: Understanding Earth’s Past, Present, and Future.” November 16, 2020. Watch [here](https://www.youtube.com/watch?v=bnmWTuwb7oI).
