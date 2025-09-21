@@ -7,6 +7,18 @@ author_profile: true
 
 {% include base_path %}
 
+## Attending the climes Interdisciplinary School on Impacts of Climate Extremes​
+
+<img src="/images/gallery_imgs/climes_summer_school.jpg" alt="climes Summer School" width="50%" style="float: left; padding-right:30px" />
+
+**June 16, 2025**
+<br/>
+I had a wonderful time attending this year's climes Summer School hosted by Uppsala University in Uppsala, Sweden. It was an enriching week learning from lecturers and peers with interdisciplinary expertise on holistic approaches to understanding climate extremes.
+<br/>
+<br/>
+<br/>
+<br/>
+
 ## Recieving this year's Wagner Memorial Award
 
 <img src="/images/gallery_imgs/DRI_presentation.jpg" alt="DRI_presentation" width="50%" style="float: left; padding-right:30px" />
