@@ -19,6 +19,9 @@ I had a wonderful time attending this year's climes Summer School hosted by Upps
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
 
 ## Recieving this year's Wagner Memorial Award
 
