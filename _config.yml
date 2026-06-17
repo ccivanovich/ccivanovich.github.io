@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr. Catherine Ivanovich"
+title                    : "Dr. Casey Ivanovich"
 title_separator          : "-"
-name                     : &name "Dr. Catherine Ivanovich"
+name                     : &name "Dr. Casey Ivanovich"
 description              : &description "NASA Postdoctoral Program (NPP) Fellow at NASA Goddard Institute for Space Studies"
 url                      : https://ccivanovich.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "ccivanovich/ccivanovich.github.io"
 author:
   # Biographic information
   avatar           : "headshot_square_2024.png"
-  name             : "Dr. Catherine Ivanovich"
+  name             : "Dr. Casey Ivanovich"
   pronouns         : "she/her"  
   bio              : "Climate scientist studying extreme events | Current NASA Postdoctoral Program Fellow"
   location         : "New York, NY"
