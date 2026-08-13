@@ -10,7 +10,7 @@ author_profile: true
 ## Course Leads
 ---
 ### Columbia University, School of Professional Studies
-* Lead instructor for Masters-level course titled, "Earth's Climate System," in the Columbia University School of Professional Studies (Master of Science in Sustainability Management program). Fall 2026-Spring 2027.
+* Lecturer for Masters-level course titled, "Earth's Climate System," in the Columbia University School of Professional Studies (Master of Science in Sustainability Management program). Fall 2026-Spring 2027.
 
 ### Columbia University, Science Honors Program
 * Co-lead teacher for the high school course titled, "Understanding Earth's Climate System and Climate Change," sponsored by Columbia University's Science Honors Program. Fall 2021-Spring 2022.
