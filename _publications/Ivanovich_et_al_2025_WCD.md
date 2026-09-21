@@ -6,7 +6,7 @@ permalink: /publication/physical-drivers-November-2023-Rio-heatwave
 excerpt: ''
 date: 2025-12-18
 venue: 'Weather and Climate Dynamics'
-paperurl: 'https://wcd.copernicus.org/articles/6/1857/2025/'
+paperurl: '../../files/Ivanovich et al. 2025_Weather and Climate Dynamics.pdf'
 citation: 'Ivanovich, C. C., Sobel, A. H., Horton, R. M., Nunes, A. M. B., Porfírio da Rocha, R., & Camargo, S. J. (2025). Physical drivers of the November 2023 heatwave in Rio de Janeiro. Weather and Climate Dynamics, 6(4), 1857–1874. https://doi.org/10.5194/wcd-6-1857-2025'
 ---
 
