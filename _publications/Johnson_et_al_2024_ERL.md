@@ -6,7 +6,7 @@ permalink: /publication/extreme-precip-humid-heat-connections
 excerpt: ''
 date: 2024-10-17
 venue: 'Environmental Research Letters'
-paperurl: 'https://iopscience.iop.org/article/10.1088/1748-9326/ad7edc/meta/'
+paperurl: '../../files/Johnson et al. 2024_Environmental Research Letters.pdf'
 citation: 'Johnson, S., Ivanovich, C., Horton, R. M., Ting, M., Kornhuber, K., & Lesk, C. (2024). Temporal connections between extreme precipitation and humid heat. Environmental Research Letters, 19(11), 114076. https://doi.org/10.1088/1748-9326/ad7edc'
 ---
 
