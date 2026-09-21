@@ -6,7 +6,7 @@ permalink: /publication/concentrated-intensifying-humid-heat
 excerpt: ''
 date: 2022-02-24
 venue: 'Geophysical Research Letters'
-paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL097261'
+paperurl: '../../files/Speizer et al. 2022_Geophysical Research Letters.pdf'
 citation: 'Speizer, S., Raymond, C., Ivanovich, C., & Horton, R. M. (2022). Concentrated and Intensifying Humid Heat Extremes in the IPCC AR6 Regions. Geophysical Research Letters, 49(5), e2021GL097261. https://doi.org/10.1029/2021GL097261'
 ---
 
