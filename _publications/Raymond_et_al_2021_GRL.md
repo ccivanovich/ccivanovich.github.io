@@ -6,7 +6,7 @@ permalink: /publication/controlling-factors-humid-heat
 excerpt: ''
 date: 2021-11-16
 venue: 'Geophysical Research Letters'
-paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL096082'
+paperurl: '../../files/Raymond et al. 2021_Geophysical Research Letters.pdf'
 citation: 'Raymond, C., Matthews, T., Horton, R. M., Fischer, E. M., Fueglistaler, S., Ivanovich, C., et al. (2021). On the Controlling Factors for Globally Extreme Humid Heat. Geophysical Research Letters, 48(23), e2021GL096082. https://doi.org/10.1029/2021GL096082'
 ---
 
