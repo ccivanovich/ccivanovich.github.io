@@ -6,7 +6,7 @@ permalink: /publication/most-extreme-heat-mortality-review
 excerpt: ''
 date: 2025-02-04
 venue: 'Nature Reviews Earth & Environment'
-paperurl: 'https://www.nature.com/articles/s43017-024-00635-w'
+paperurl: '../../files/Matthews et al. 2025_Nature Reviews Earth and Environment.pdf'
 citation: 'Matthews, T., Raymond, C., Foster, J., Baldwin, J., Ivanovich, C., Kong, Q., Kinney, P., and Horton, R., 2025. Mortality impacts of the most extreme heat events, Nature Reviews Earth & Environment, https://doi.org/10.1038/s43017-024-00635-w'
 ---
 
