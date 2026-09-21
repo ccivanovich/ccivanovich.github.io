@@ -6,7 +6,7 @@ permalink: /publication/dry-humid-heat-seasonality-NAM
 excerpt: ''
 date: 2026-06-03
 venue: 'JGR Atmospheres'
-paperurl: 'https://doi.org/10.1029/2025JD045713'
+paperurl: '../../files/Ivanovich et al. 2026_JGR Atmospheres.pdf'
 citation: 'Ivanovich, C. C., Cook, B. I., and McDermid, S. (2026). Dry Versus Humid Heat Seasonality and Drivers in the North American Monsoon Region, 131(11), e2025JD045713. https://doi.org/10.1029/2025JD045713'
 ---
 
