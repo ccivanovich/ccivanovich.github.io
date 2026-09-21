@@ -6,7 +6,7 @@ permalink: /publication/humid-heat-mortality-mexico
 excerpt: ''
 date: 2024-12-06
 venue: 'Science Advances'
-paperurl: 'https://acp.copernicus.org/articles/19/14949/2019/'
+paperurl: '../../files/Wilson et al. 2024_Science Advances.pdf'
 citation: 'Wilson, A. J., Bressler, R. D., Ivanovich, C., Tuholske, C., Raymond, C., Horton, R. M., et al. (2024). Heat disproportionately kills young people: Evidence from wet-bulb temperature in Mexico. Science Advances, 10(49), eadq3367. https://doi.org/10.1126/sciadv.adq3367'
 ---
 
