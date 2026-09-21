@@ -6,7 +6,7 @@ permalink: /publication/climate-benefits-mitigation-shipping-aviation
 excerpt: ''
 date: 2019-12-11
 venue: 'Atmospheric Chemistry and Physics'
-paperurl: 'https://acp.copernicus.org/articles/19/14949/2019/'
+paperurl: ''../../files/Ivanovich et al. 2019_Atmospheric Chemistry and Physics.pdf''
 citation: 'Ivanovich, C. C., Ocko, I. B., Piris-Cabezas, P., & Petsonk, A. (2019). Climate benefits of proposed carbon dioxide mitigation strategies for international shipping and aviation. Atmospheric Chemistry and Physics, 19(23), 14949–14965. https://doi.org/10.5194/acp-19-14949-2019'
 ---
 
