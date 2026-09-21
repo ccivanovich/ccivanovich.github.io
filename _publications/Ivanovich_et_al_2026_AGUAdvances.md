@@ -6,7 +6,7 @@ permalink: /publication/dry-humid-heat-seasonality-asymm
 excerpt: ''
 date: 2026-09-10
 venue: 'AGU Advances'
-paperurl: 'https://doi.org/10.1029/2026AV002516'
+paperurl: '../../files/Ivanovich et al. 2026_AGU Advances.pdf'
 citation: 'Ivanovich, C. C., Cook, B. I., and McDermid, S. (2026). Extreme Dry and Humid Heat Seasons Are Changing Asymmetrically, 7(6), e2026AV002516. https://doi.org/10.1029/2026AV002516'
 ---
 
